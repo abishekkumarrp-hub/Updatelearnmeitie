@@ -1,0 +1,6 @@
+{
+  "name": "Learn Meitei",
+  "description": "Learn Meitei (Manipuri) language with Duolingo-style colorful lessons, cultural trivia, and an AI chat companion.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
